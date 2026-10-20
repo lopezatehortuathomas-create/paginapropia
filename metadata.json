@@ -1,0 +1,6 @@
+{
+  "name": "PulseFit - Entrenamiento de Élite",
+  "description": "Aplicación de entrenamiento atlético de alto rendimiento con seguimiento en vivo, telemetría biomecánica, explorador de rutinas y récords personales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
